@@ -1,6 +1,7 @@
 # MOVS Prüfungsleistung
 
 - Software Entwicklung als Einzelarbeit
+- Muss durch mich genemigt werden!!!
 - Projektpräsentation
 
 ## Projektpräsentation
@@ -10,6 +11,7 @@
 
 ## Abgabe
 
+- Bis **05.04.2019** Projektbeschreibung per E-Mail zur Genemigung durch mich.
 - Code: Zip Ordner mit GIT Repo
 - Präsentation als PDF
 
